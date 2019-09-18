@@ -27,7 +27,7 @@ class ChatRowWidget extends StatelessWidget {
                   Container(
                       child: Column(
                         children: <Widget>[
-                          Text('John Doe', style: Styles.subHeading),
+                          Text('Manisha', style: Styles.subHeading),
                           Text(
                             'What\'s up?',
                             style: Styles.subText,

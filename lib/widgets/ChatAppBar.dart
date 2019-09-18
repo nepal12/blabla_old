@@ -58,9 +58,9 @@ class ChatAppBar extends StatelessWidget implements PreferredSizeWidget {
                                                     MainAxisAlignment.center,
                                                     mainAxisSize: MainAxisSize.min,
                                                     children: <Widget>[
-                                                      Text('Aditya Gurjar',
+                                                      Text('Ritesh Rijal',
                                                           style: Styles.textHeading),
-                                                      Text('@adityagurjar',
+                                                      Text('@riri',
                                                           style: Styles.text)
                                                     ],
                                                   ))),
